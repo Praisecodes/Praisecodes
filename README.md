@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Okeypraise Junior (Praise Codes)
 
-- 🔭 I’m currently working on [Swift Vallet](https://github.com/Praisecodes/swift-vallet-mobile)
+- 🔭 I’m currently working on [Swift Vallet](https://github.com/Praisecodes/swift-valet-customer)
 - 🌱 I’m currently learning everyday
 - 👯 I’m looking to collaborate on React Native projects 😊
 - 💬 Ask me about React Native 💓
